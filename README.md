@@ -24,28 +24,6 @@ I'm a passionate **Web Developer / UI Designer** with experience in **Web Develo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AccessAuthority&show_icons=true&theme=radical)
 
-## Featured Projects 💻
-
-### 1.ChatVox - Messaging App 
-![And](https://github.com/AccessAuthority/AccessAuthority/assets/93637092/57a96c81-0fd7-4e9d-8ff6-cae85ba2a9a9)
-
-**ChatVox** is a versatile messaging Android app designed to streamline communication and enhance user connectivity. With its intuitive interface and array of features, ChatVOX allows users to exchange text messages, voice notes, images, videos, and documents effortlessly. Whether it's one-on-one conversations or group chats, ChatVOX ensures seamless communication, fostering connections among users. Its sleek design and customizable settings provide a personalized experience, while robust security measures ensure user privacy and data protection. With ChatVOX, staying connected with friends, family, and colleagues has never been easier or more enjoyable. built with **Android with Java**. This project demonstrates my ability to **Android Development**. You can check out the repository [here](project_1_repository_link).
-
-
-### 2.Access Authority - WordPress Website - https://accessauthority.42web.io/
-![Screenshot 2024-02-08 190556](https://github.com/AccessAuthority/AccessAuthority/assets/93637092/f4bb203d-c35e-465c-a6bf-719ef3711e43)
-
-**Access Authorit** is a personal tech website dedicated to showcasing the expertise, projects, and accomplishments of an individual professional or a team within the technology industry. The site serves as a hub for visitors to learn about the individual's or team's experience and capabilities in areas such as access control, security, and authorization management. It features sections like:
-
-1. **About Access Authority**: An introduction to the website and its purpose, providing insight into the focus areas and specialties of the individual or team behind it.
-
-2. **Portfolio of Projects**: Highlights of past projects and collaborations related to access control, authority management, and security solutions. Each project description may include details on the technologies utilized and the problem-solving approach.
-
-3. **Expertise and Services**: An overview of the technical skills, expertise, and services offered by Access Authority, showcasing the depth of knowledge and capabilities in the field.
-
-4. **Blog or Resources**: A section dedicated to sharing insights, articles, and resources on topics relevant to access control, security, and technology trends.
-
-5. **Contact Information**: Contact details for individuals or organizations interested in collaborating, hiring services, or seeking consultation from Access Authority.built with **Wordpress > Elementor**. This project showcases my skills in **WordPress Development**. 
 
 ## Get in Touch 📬
 
