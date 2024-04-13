@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/AccessAuthority/Access-Authority/assets/93637092/898029c8-5645-411d-963f-8759fe402842)
+![github-header-image](https://github.com/AccessAuthority/AccessAuthority/assets/93637092/f141a3d9-59d7-4dbe-921f-8ab4a82c0e1c)
 ![Profile Views](https://komarev.com/ghpvc/?username=your-AccessAuthority)
 ## About Me 🚀
 
@@ -27,13 +27,13 @@ I'm a passionate **Web Developer / UI Designer** with experience in **Web Develo
 ## Featured Projects 💻
 
 ### 1.ChatVox - Messaging App 
-![And](https://github.com/AccessAuthority/Access-Authority/assets/93637092/9f873670-1e9b-4de7-83cc-bd3e2d0b2718)
+![And](https://github.com/AccessAuthority/AccessAuthority/assets/93637092/57a96c81-0fd7-4e9d-8ff6-cae85ba2a9a9)
 
 **ChatVox** is a versatile messaging Android app designed to streamline communication and enhance user connectivity. With its intuitive interface and array of features, ChatVOX allows users to exchange text messages, voice notes, images, videos, and documents effortlessly. Whether it's one-on-one conversations or group chats, ChatVOX ensures seamless communication, fostering connections among users. Its sleek design and customizable settings provide a personalized experience, while robust security measures ensure user privacy and data protection. With ChatVOX, staying connected with friends, family, and colleagues has never been easier or more enjoyable. built with **Android with Java**. This project demonstrates my ability to **Android Development**. You can check out the repository [here](project_1_repository_link).
 
 
 ### 2.Access Authority - WordPress Website - https://accessauthority.42web.io/
-![Screenshot 2024-02-08 190556](https://github.com/AccessAuthority/Access-Authority/assets/93637092/aa544f87-b9ec-41d2-8913-8debccb95926)
+![Screenshot 2024-02-08 190556](https://github.com/AccessAuthority/AccessAuthority/assets/93637092/f4bb203d-c35e-465c-a6bf-719ef3711e43)
 
 **Access Authorit** is a personal tech website dedicated to showcasing the expertise, projects, and accomplishments of an individual professional or a team within the technology industry. The site serves as a hub for visitors to learn about the individual's or team's experience and capabilities in areas such as access control, security, and authorization management. It features sections like:
 
