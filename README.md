@@ -25,7 +25,9 @@ I'm a passionate **Web Developer / UI Designer** with experience in **Web Develo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AccessAuthority&show_icons=true&theme=radical)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AccessAuthority&theme=2077)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AccessAuthority&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AccessAuthority&theme=2077)
 ## Get in Touch 📬
 
 - **Personal Website** : https://accessauthority.42web.io/
