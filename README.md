@@ -30,6 +30,6 @@ I'm a passionate **Web Developer / UI Designer** with experience in **Web Develo
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AccessAuthority&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AccessAuthority&theme=2077)
 ## Get in Touch 📬
 
-- **Personal Website** : https://accessauthority.42web.io/
+- **Personal Website** : https://accessauthority.netlify.app/
 - **LinkedIn** : www.linkedin.com/in/accessauthority
 - **Youtube** : https://www.youtube.com/c/accessauthority
