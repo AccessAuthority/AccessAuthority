@@ -23,7 +23,7 @@ I'm a passionate **Web Developer / UI Designer** with experience in **Web Develo
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-800000?style=flat-square&logo=adobexd&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-1572B6?style=flat-square&logo=Wordpress&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AccessAuthority&show_icons=true&theme=radical)
+![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AccessAuthority&show_icons=true&theme=radical)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AccessAuthority&theme=2077)
 
