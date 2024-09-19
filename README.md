@@ -24,9 +24,10 @@ I'm a passionate **Web Developer / UI Designer** with experience in **Web Develo
 ![WordPress](https://img.shields.io/badge/-WordPress-1572B6?style=flat-square&logo=Wordpress&logoColor=white)
 
 ![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AccessAuthority&show_icons=true&theme=radical) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=accessauthority&theme=radical&hide_border=false)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=accessauthority&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=accessauthority&theme=radical&hide_border=false)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AccessAuthority&theme=2077)
