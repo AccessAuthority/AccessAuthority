@@ -27,7 +27,6 @@ I'm a passionate **Web Developer / UI Designer** with experience in **Web Develo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=accessauthority&theme=radical&hide_border=false)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AccessAuthority&theme=2077)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=accessauthority&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
