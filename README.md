@@ -28,11 +28,12 @@ I'm a passionate **Web Developer / UI Designer** with experience in **Web Develo
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AccessAuthority&theme=2077)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=accessauthority&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=accessauthority&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=accessauthority&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=accessauthority&theme=radical&no-frame=false&no-bg=true&margin-w=4)
