@@ -23,12 +23,13 @@ I'm a passionate **Web Developer / UI Designer** with experience in **Web Develo
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-800000?style=flat-square&logo=adobexd&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-1572B6?style=flat-square&logo=Wordpress&logoColor=white)
 
-![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AccessAuthority&show_icons=true&theme=radical)
+![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AccessAuthority&show_icons=true&theme=radical) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=accessauthority&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AccessAuthority&theme=2077)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=accessauthority&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=accessauthority&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=accessauthority&limit=5&theme=radical&combine_all_yearly_contributions=true)
