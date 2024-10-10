@@ -5,7 +5,7 @@
 I'm a passionate **Web Developer / UI Designer** with experience in **Web Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Asp.NET
-- 🔭 Working on: Govt Job Advertisement & Management System
+- 🔭 Working on: eShop Management System (Asus ROG)
 - 🌍 Languages: Python, JAVA, PHP, MySQL, JavaScript, CSS, HTML. || Hindi & English.
 - 📫 How to reach me: www.linkedin.com/in/accessauthority
 - ⚡ Fun fact: 🙂
